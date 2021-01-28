@@ -7,8 +7,9 @@ namespace Assets.Scripts.Assignment_01
     public class PlayerController : MonoBehaviour
     {
         [SerializeField] private float speed = 5f;
-        [SerializeField]private float xMove = 0f;
-        [SerializeField]private float yMove = 0f;
+        [SerializeField] private float xMove = 0f;
+        [SerializeField] private float yMove = 0f;
+        [SerializeField] private Firearm weapon = null;
 
         private Rigidbody2D rb2d;
         
@@ -32,10 +33,20 @@ namespace Assets.Scripts.Assignment_01
             transform.rotation = Quaternion.AngleAxis(angle + -90, Vector3.forward);
             
             // just some stuff to help me with directions
-            Debug.DrawRay(transform.position, Vector3.forward * 1, Color.blue);
-            Debug.DrawRay(transform.position, Vector3.up * 1, Color.green);
-            Debug.DrawRay(transform.position, Vector3.right * 1, Color.red);
+            Debug.DrawRay(transform.position, transform.forward * 1, Color.blue);
+            Debug.DrawRay(transform.position, transform.up * 1, Color.green);
+            Debug.DrawRay(transform.position, transform.right * 1, Color.red);
 
+
+            if (weapon != null)
+            {
+                weapon.Trigger(Input.GetButton("Fire1"));
+
+                if (Input.GetButtonDown("Reload"))
+                {
+                    weapon.Reload();
+                }
+            }
         }
 
         void FixedUpdate()
