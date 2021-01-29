@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/*
+ * Nathan Cover
+ * Firearm.cs
+ * Assignment_01
+ * abstract superclass for firearm objects containing base functionality for a
+ * trigger system and prototype methods for other functionality as well as customizable properties
+ */
+
+using System.Collections;
 using UnityEngine;
 
 namespace Assets.Scripts.Assignment_01
@@ -23,6 +31,7 @@ namespace Assets.Scripts.Assignment_01
         protected abstract void Fire();
 
         public abstract void Reload();
+        
         public virtual void Trigger(bool trigger)
         {
             if(trigger && TriggerLock == false)

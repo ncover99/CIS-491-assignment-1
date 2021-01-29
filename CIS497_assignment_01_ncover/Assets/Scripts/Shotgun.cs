@@ -1,4 +1,14 @@
-﻿using System.Collections;
+﻿/*
+ * Nathan Cover
+ * Shotgun.cs
+ * Assignment_01
+ * class to handle the shotgun weapon object which derives from the firearm class. uses the firearm
+ * class for trigger functions and for base properties but has its own implementation of the Fire() method
+ * for shooting multiple projectiles in a cone as well as its own implementation of reload to simulate manually
+ * loading shells into a weapon as apposed to replacing a whole magazine like the pistol class. 
+ */
+
+using System.Collections;
 using UnityEngine;
 
 namespace Assets.Scripts.Assignment_01

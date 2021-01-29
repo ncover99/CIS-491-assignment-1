@@ -1,4 +1,13 @@
-﻿using UnityEngine;
+﻿/*
+ * Nathan Cover
+ * Bullet.cs
+ * Assignment_01
+ * Class to handle the functionality of the projectiles for the firearms, the class contains a constructor
+ * to specify the spawn location and direction the bullet should be facing when created, as well as setting death time.
+ * The bullet destroys itself after a set time to not bloat the hierarchy.
+ */
+
+using UnityEngine;
 
 namespace Assets.Scripts.Assignment_01
 {

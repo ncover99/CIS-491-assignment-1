@@ -20,17 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d4a57f8-de76-4789-a645-7b27ca3c6f70" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Bullet.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Firearm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Firearm.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Pistol.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Pistol.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Pistol.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Pistol.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/PlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/bullet.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/bullet.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Sprites/pistol_sprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Sprites/pistol_sprite.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Sprites/shotgun_sprite.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Sprites/shotgun_sprite.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Shotgun.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Shotgun.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.week 1 demo project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.week 1 demo project/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

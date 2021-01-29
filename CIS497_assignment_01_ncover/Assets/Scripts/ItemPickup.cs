@@ -1,4 +1,14 @@
-﻿using UnityEngine;
+﻿/*
+ * Nathan Cover
+ * ItemPickup.cs
+ * Assignment_01
+ * Class to handle attaching gameObjects to another gameObjects, in this case it is called from
+ * OnTriggerEnter as a pickup in the scene. I chose going this approach over using the GetCopyOf() and AddComponent
+ * Functions from the demo project because different weapons could be stored as different child objects
+ * allowing switching much more easily in the future.
+ */
+
+using UnityEngine;
 
 namespace Assets.Scripts.Assignment_01
 {

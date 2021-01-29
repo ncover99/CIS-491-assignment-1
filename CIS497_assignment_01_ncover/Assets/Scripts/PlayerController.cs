@@ -1,4 +1,12 @@
-﻿using UnityEngine;
+﻿/*
+ * Nathan Cover
+ * PlayerController.cs
+ * Assignment_01
+ * Class to handle the basic functionality of the player like moving and aiming towards the cursor as well as
+ * interactions with pickups and using weapons.
+ */
+
+using UnityEngine;
 
 namespace Assets.Scripts.Assignment_01
 {
