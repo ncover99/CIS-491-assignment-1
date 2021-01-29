@@ -1,32 +1,43 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class Firearm : MonoBehaviour
+namespace Assets.Scripts.Assignment_01
 {
-    [SerializeField] protected int ammoPerMag = 11;
-    [SerializeField] protected float roteOfFire = 0.2f;
-    protected bool rofFlag = false;
-    [SerializeField] protected GameObject bullet;
-    [HideInInspector] public bool triggerLock = false;
-    
-    public abstract void Fire();
-
-    public abstract void Reload();
-    public virtual void Trigger(bool trigger)
+    public abstract class Firearm : MonoBehaviour
     {
-        if(trigger && triggerLock == false)
-            Fire();
-        if (trigger == false && triggerLock && rofFlag == false)
-            StartCoroutine(RateOfFire());
-    }
-    
-    IEnumerator RateOfFire()
-    {
-        rofFlag = true;
-        yield return new WaitForSeconds(roteOfFire);
-        triggerLock = false;
-        rofFlag = false;
-    }
+        [SerializeField] protected float ReloadTime = 2f;
+        [SerializeField] protected int CurrentAmmo;
+        [SerializeField] protected int AmmoPerMag = 11;
+        [SerializeField] protected float roteOfFire = 0.2f;
+        [SerializeField] protected GameObject bullet;
+        
+        protected bool RofFlag = false;
+        protected bool ReloadFlag = false;
+        protected bool TriggerLock = false;
 
+        protected void Start()
+        {
+            CurrentAmmo = AmmoPerMag;
+        }
+        
+        protected abstract void Fire();
+
+        public abstract void Reload();
+        public virtual void Trigger(bool trigger)
+        {
+            if(trigger && TriggerLock == false)
+                Fire();
+            if (trigger == false && TriggerLock && RofFlag == false)
+                StartCoroutine(RateOfFire());
+        }
+    
+        private IEnumerator RateOfFire()
+        {
+            RofFlag = true;
+            yield return new WaitForSeconds(roteOfFire);
+            TriggerLock = false;
+            RofFlag = false;
+        }
+
+    }   
 }

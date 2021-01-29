@@ -1,29 +1,46 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class Pistol : Firearm
+namespace Assets.Scripts.Assignment_01
 {
-    // Start is called before the first frame update
-    void Start()
+    public class Pistol : Firearm
     {
-        
-    }
+        protected override void Fire() //pistols implementation of the fire method
+        {
+            if (CurrentAmmo > 0)
+            {
+                CurrentAmmo--;
+                Instantiate(bullet, transform.position, transform.rotation);   
+            }
+            else
+            {
+                Debug.Log("OUT OF AMMO");
+            }
+            
+            TriggerLock = true;
+        }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+        public override void Trigger(bool trigger)
+        {
+            if( ReloadFlag == false)
+                base.Trigger(trigger);
+        }
 
-    public override void Fire() //pistols implementation of the fire method
-    {
-        triggerLock = true;
-        Instantiate(bullet, transform.position, transform.rotation);
-    }
+        public override void Reload()
+        {
+            if (CurrentAmmo < AmmoPerMag && ReloadFlag == false)
+            {
+                ReloadFlag = true;
+                StartCoroutine(ReloadTimer());
+                Debug.Log("RELOADING");
+            }
+        }
 
-    public override void Reload()
-    {
-        //TODO
-    }
+        private IEnumerator ReloadTimer()
+        {
+            yield return new WaitForSeconds(ReloadTime);
+            CurrentAmmo = AmmoPerMag;
+            ReloadFlag = false;
+        }
+    }   
 }

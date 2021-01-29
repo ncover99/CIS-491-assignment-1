@@ -1,37 +1,39 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class Bullet : MonoBehaviour
+namespace Assets.Scripts.Assignment_01
 {
-    [SerializeField] private float lifeTime = 5f;
-    [SerializeField] private float speed = 10f;
-    private Rigidbody2D rb2d;
-    private Vector3 targetDir;
-
-    private Bullet(float lifeTime, float speed, Vector3 targetDir)
+    public class Bullet : MonoBehaviour
     {
-        lifeTime = this.lifeTime;
-        speed = this.speed;
-        targetDir = this.targetDir;
-    }
-    
-    // Start is called before the first frame update
-    void Start()
-    {
-        rb2d = GetComponent<Rigidbody2D>();
-        Destroy(this.gameObject, lifeTime);
+        [SerializeField] private float lifeTime = 5f;
+        [SerializeField] private float speed = 10f;
+        private Rigidbody2D rb2d = null;
+        private Vector3 targetDir = new Vector3(0,0,0);
 
-    }
+        private Bullet(float lifeTime, float speed, Vector3 targetDir)
+        {
+            lifeTime = this.lifeTime;
+            speed = this.speed;
+            targetDir = this.targetDir;
+        }
 
-    // Update is called once per frame
-    void Update()
-    {
-        Debug.DrawRay(transform.position, transform.up * 1, Color.green);
-    }
+        // Start is called before the first frame update
+        void Start()
+        {
+            rb2d = GetComponent<Rigidbody2D>();
+            Destroy(this.gameObject, lifeTime);
 
-    void FixedUpdate()
-    {
-        rb2d.MovePosition(rb2d.position + (new Vector2(transform.up.x, transform.up.y) * speed) * Time.fixedDeltaTime);
+        }
+
+        // Update is called once per frame
+        void Update()
+        {
+            Debug.DrawRay(transform.position, transform.up * 1, Color.green);
+        }
+
+        void FixedUpdate()
+        {
+            rb2d.MovePosition(rb2d.position +
+                              (new Vector2(transform.up.x, transform.up.y) * speed) * Time.fixedDeltaTime);
+        }
     }
 }
