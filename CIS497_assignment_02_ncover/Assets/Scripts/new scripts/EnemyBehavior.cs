@@ -5,9 +5,6 @@
  * Class to handle the most bare bones enemy functionality. any polymorphic abilities are split off into enemy types
  */
 
-using System.Collections;
-using System.Collections.Generic;
-using UnityEditor.SceneManagement;
 using UnityEngine;
 
 namespace Assets.Scripts.Assignment_02
