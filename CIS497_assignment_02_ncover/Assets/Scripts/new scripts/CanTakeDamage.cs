@@ -13,14 +13,14 @@ namespace Assets.Scripts.Assignment_02
 {
  public class CanTakeDamage : MonoBehaviour
  {
-  [SerializeField] protected int _health = 3;
+  [SerializeField] public int Health = 3;
   [SerializeField] private float _iframeTime = 0.2f;
   private bool _canTakeDamage = true;
   [SerializeField] public GameManager _gameManager;
 
   public int GetHealth()
   {
-   return _health;
+   return Health;
   }
 
   public void TakeDamage()
@@ -34,10 +34,10 @@ namespace Assets.Scripts.Assignment_02
    {
     _canTakeDamage = false;
     StartCoroutine(InvincibleFrames());
-    _health -= damageToTake;
-    if (_health <= 0)
+    Health -= damageToTake;
+    if (Health <= 0)
     {
-     _health = 0;
+     Health = 0;
      Death();   
     }   
    }

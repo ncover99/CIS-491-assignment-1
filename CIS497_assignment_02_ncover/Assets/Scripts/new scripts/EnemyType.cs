@@ -14,19 +14,23 @@ namespace Assets.Scripts.Assignment_02
     [RequireComponent(typeof(CanTakeDamage))]
     public abstract class EnemyType : MonoBehaviour
     {
-        [SerializeField] protected float _speed = 3f;
-        protected Transform _playerPos;
+        [SerializeField] protected float Speed = 3f;
+        protected Transform PlayerPos;
 
         // Start is called before the first frame update
         protected void Start()
         {
-            _playerPos = GameObject.FindWithTag("Player").transform;
+            PlayerPos = GameObject.FindWithTag("Player").transform;
         }
 
-        // Update is called once per frame
-        void Update()
+        public void SetSpeed(float speed)
         {
-        
+            Speed = speed;
+        }
+
+        public float GetSpeed()
+        {
+            return Speed;
         }
 
         public abstract void Move();

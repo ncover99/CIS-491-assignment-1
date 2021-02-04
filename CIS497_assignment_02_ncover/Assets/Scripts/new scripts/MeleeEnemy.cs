@@ -22,16 +22,11 @@ namespace Assets.Scripts.Assignment_02
             _rb2d = GetComponent<Rigidbody2D>();
         }
 
-        private void FixedUpdate()
-        {
-            Move();
-        }
-    
         public override void Move()
         {
-            var playerDir = new Vector2(transform.position.x - _playerPos.position.x, 
-                transform.position.y - _playerPos.position.y).normalized;
-            _rb2d.MovePosition(_rb2d.position + (-playerDir * _speed) * Time.fixedDeltaTime);
+            var playerDir = new Vector2(transform.position.x - PlayerPos.position.x, 
+                transform.position.y - PlayerPos.position.y).normalized;
+            _rb2d.MovePosition(_rb2d.position + (-playerDir * Speed) * Time.fixedDeltaTime);
         }
     
         private void OnCollisionStay2D(Collision2D other)

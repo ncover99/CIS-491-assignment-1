@@ -20,13 +20,13 @@ namespace Assets.Scripts.Assignment_02
         // Start is called before the first frame update
         void Start()
         {
-            _healthText.text = _health.ToString();
+            _healthText.text = Health.ToString();
         }
 
         public override void TakeDamage(int damageToTake)
         {
             base.TakeDamage(damageToTake);
-            _healthText.text = _health.ToString();
+            _healthText.text = Health.ToString();
         }
 
         protected override void Death()
