@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="082a8f98-af82-4836-9a02-fe55f3512210" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.week 1 demo project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.week 1 demo project/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/new scripts/RangedEnemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/new scripts/EnemyCanTakeDamage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/new scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeleeEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CanTakeDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCanTakeDamge.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/new scripts/EnemyType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/new scripts/CanTakeDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/new scripts/PlayerCanTakeDamge.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/new scripts/EnemyCanTakeDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Firearm.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shotgun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pistol.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ItemPickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/new scripts/MeleeEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/new scripts/EnemyBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/new scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/new scripts/RangedEnemy.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nybZvGqoAOyzvS6GvA5LOGhYaz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="082a8f98-af82-4836-9a02-fe55f3512210" name="Default Changelist" comment="" />
+      <created>1612365340041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612365340041</updated>
+      <workItem from="1612365360281" duration="14008000" />
+      <workItem from="1612457408245" duration="5208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="166" width="1101" height="1219" key="dock-window-1" timestamp="1612458351450">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="765" y="166" width="1101" height="1219" key="dock-window-1/0.0.3440.1400@0.0.3440.1400" timestamp="1612458351450" />
+    <state x="1081" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1612457547393">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1081" y="401" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1612457547393" />
+  </component>
+</project>

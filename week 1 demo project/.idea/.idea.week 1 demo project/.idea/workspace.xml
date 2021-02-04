@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4a57f8-de76-4789-a645-7b27ca3c6f70" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Bullet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Firearm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Firearm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Pistol.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Pistol.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Shotgun.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../CIS497_assignment_01_ncover/Assets/Scripts/Shotgun.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.week 1 demo project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.week 1 demo project/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8d4a57f8-de76-4789-a645-7b27ca3c6f70" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611933932579</updated>
-      <workItem from="1611933949567" duration="3785000" />
+      <workItem from="1611933949567" duration="4384000" />
     </task>
     <servers />
   </component>
