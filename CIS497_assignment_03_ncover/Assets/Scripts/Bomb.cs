@@ -1,10 +1,10 @@
 ﻿/*
  * Nathan Cover
- * Bullet.cs
- * Assignment_02
- * Class to handle the functionality of the projectiles for the firearms, the class contains a constructor
- * to specify the spawn location and direction the bullet should be facing when created, as well as setting death time.
- * The bullet destroys itself after a set time to not bloat the hierarchy.
+ * Bomb.cs
+ * Assignment_03
+ * Class to handle the functionality of the projectiles for the bomb launcher, can be remote detonated after an arm
+ * time, each instance of a bomb recieves signals from the bomb launcher that created it
+ * and can be detonated by said launcher
  */
 
 using System.Collections;

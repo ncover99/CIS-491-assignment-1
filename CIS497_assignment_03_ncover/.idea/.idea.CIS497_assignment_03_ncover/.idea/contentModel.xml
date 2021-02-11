@@ -9,7 +9,6 @@
         <e p="Scripts" t="Include">
           <e p="Bomb.cs" t="Include" />
           <e p="BombLauncher.cs" t="Include" />
-          <e p="DetonateBombs.cs" t="Include" />
           <e p="Firearm.cs" t="Include" />
           <e p="IObserver.cs" t="Include" />
           <e p="ISubject.cs" t="Include" />

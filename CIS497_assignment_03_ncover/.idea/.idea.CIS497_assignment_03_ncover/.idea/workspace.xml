@@ -19,7 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6017b0d3-6677-4e46-8d60-25f382cde6aa" name="Default Changelist" comment="" />
+    <list default="true" id="6017b0d3-6677-4e46-8d60-25f382cde6aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CIS497_assignment_03_ncover/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CIS497_assignment_03_ncover/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CIS497_assignment_03_ncover/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CIS497_assignment_03_ncover/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bomb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Bomb.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BombLauncher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BombLauncher.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DetonateBombs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DetonateBombs.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Firearm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Firearm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IObserver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/IObserver.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ISubject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ISubject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,15 +42,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Firearm.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pistol.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ISubject.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/IObserver.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DetonateBombs.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bomb.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BombLauncher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IObserver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ISubject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Firearm.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -62,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613057214502</updated>
-      <workItem from="1613057230996" duration="4619000" />
+      <workItem from="1613057230996" duration="7097000" />
     </task>
     <servers />
   </component>

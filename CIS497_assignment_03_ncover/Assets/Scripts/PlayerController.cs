@@ -1,9 +1,9 @@
 ﻿/*
  * Nathan Cover
  * PlayerController.cs
- * Assignment_02
- * Class to handle the basic functionality of the player like moving and aiming towards the cursor as well as
- * interactions with pickups and using weapons.
+ * Assignment_03
+ * Class to handle the basic functionality of the player like moving and aiming towards \
+ * the cursor as well as using weapons.
  */
 
 using UnityEngine;

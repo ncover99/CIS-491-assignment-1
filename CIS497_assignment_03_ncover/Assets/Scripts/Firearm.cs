@@ -1,7 +1,7 @@
 ﻿/*
  * Nathan Cover
  * Firearm.cs
- * Assignment_02
+ * Assignment_03
  * abstract superclass for firearm objects containing base functionality for a
  * trigger system and prototype methods for other functionality as well as customizable properties
  */

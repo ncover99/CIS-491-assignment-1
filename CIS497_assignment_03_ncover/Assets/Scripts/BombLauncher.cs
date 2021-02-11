@@ -1,10 +1,9 @@
 ﻿/*
  * Nathan Cover
- * Pistol.cs
- * Assignment_02
- * class to handle the pistol weapon object that derives from the firearm superclass. Has its own implementation
- * of the fire method only fire 1 shot per click. Also has its own implementation of the reload method that differs
- * from the shotgun class in that it reloads all of its ammo instantly after a set waiting time after pressing R
+ * BombLauncher.cs
+ * Assignment_03
+ * class to handle the Bomb Launcher weapon object, cross compatible with earlier iterations of the player
+ * controller and FireArm parent class, acts as the subject to the bomb observers and can detonate them remotely
  */
 
 using System.Collections.Generic;

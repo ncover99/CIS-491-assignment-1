@@ -1,6 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿/*
+ * Nathan Cover
+ * ISubject.cs
+ * Assignment_03
+ * Interface for any object that wants to act as a subject to an observer
+ */
 
 namespace Assets.Scripts.Assignment_03
 {
