@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9753f32-ba01-4a69-ba24-0214669f01bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../CIS497_assignment_03_ncover/Assets/Scripts/Bomb.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponDecorator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../CIS497_assignment_03_ncover/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ModifierCommon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/CharacterCreator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://S:/Unity Projects/car/Car/Assets/test.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ModifierRare.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapons.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="S:/Unity Projects/car/Car/Assets/test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDecorator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerModifiers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ModifierCommon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ModifierRare.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ModifierLegendary.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponBow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponSword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponClub.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponDecorator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ofixO0SX49CYv5A6fkfnibF6Zm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9753f32-ba01-4a69-ba24-0214669f01bf" name="Default Changelist" comment="" />
+      <created>1613684290762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613684290762</updated>
+      <workItem from="1613684294647" duration="3689000" />
+      <workItem from="1613688055955" duration="4237000" />
+      <workItem from="1613748067962" duration="5115000" />
+      <workItem from="1613753627246" duration="445000" />
+      <workItem from="1613754454452" duration="1661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="484" key="RiderGenerateDialog" timestamp="1613750076738">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="776" y="484" key="RiderGenerateDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1613750076738" />
+    <state x="1208" y="445" width="1357" height="954" key="dock-window-1" timestamp="1613692325355">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1208" y="445" width="1357" height="954" key="dock-window-1/0.0.3440.1400@0.0.3440.1400" timestamp="1613692325355" />
+    <state x="759" y="408" width="672" height="678" key="search.everywhere.popup" timestamp="1613752686277">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="759" y="408" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1613752686277" />
+  </component>
+</project>
