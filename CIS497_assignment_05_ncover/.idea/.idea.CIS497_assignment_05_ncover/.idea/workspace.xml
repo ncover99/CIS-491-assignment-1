@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f43da3d-29d4-407a-a6ab-6d9239aebfb3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.CIS 497 Assignment 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.CIS 497 Assignment 1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.CIS 497 Assignment 1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.CIS 497 Assignment 1/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.CIS 497 Assignment 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.CIS 497 Assignment 1/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.week 1 demo project/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.week 1 demo project/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.week 1 demo project/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.week 1 demo project/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.week 1 demo project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.week 1 demo project/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.week 1 demo project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.week 1 demo project/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/.idea/.idea.week 1 demo project/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/.idea/.idea.Assets.dir/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/.idea/.idea.Assets.dir/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/.idea/.idea.Assets.dir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/.idea/.idea.Assets.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/.idea/.idea.Assets.dir/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/.idea/.idea.Assets.dir/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/.idea/.idea.Assets.dir/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/.idea/.idea.Assets.dir/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/ConsoleOutput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/ConsoleOutput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/Enemy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/Enemy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/EnemyBoxer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/EnemyBoxer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/EnemyRobot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/EnemyRobot.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/EnemySpider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/EnemySpider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/ICanPunch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/ICanPunch.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/IDamagable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1. OOP Review with Console/Scripts/IDamagable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1.1. OOP Review with Console Output.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1.1. OOP Review with Console Output.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1.2. OOP Review Polymorphism with GameObjects.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1.2. OOP Review Polymorphism with GameObjects.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1.3. OOP Review Polymorphic Array with GameObjects.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/1.3. OOP Review Polymorphic Array with GameObjects.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Materials/Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Materials/Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Materials/Orange.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Materials/Orange.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Scripts/ChangeColorGreenPowerup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Scripts/ChangeColorGreenPowerup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Scripts/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Scripts/Player.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Scripts/Powerup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Scripts/Powerup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Scripts/SpeedBoostPowerup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/2. OOP Review Polymorphism with GameObjects/Scripts/SpeedBoostPowerup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Prefabs/Cylinder Sword.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Prefabs/Cylinder Sword.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Prefabs/Sphere Computer.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Prefabs/Sphere Computer.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Scripts/Computer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Scripts/Computer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Scripts/Item.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Scripts/Item.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Scripts/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Scripts/Player.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Scripts/Sword.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Scripts/Sword.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Utils.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Utils/ExtensionMethods.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Assets/Week1/3. OOP Review Polymorphic Array with GameObjects/Utils/ExtensionMethods.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1 demo project/ProjectSettings/XRSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/AttackBite.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/AttackBite.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/AttackLaser.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/AttackLaser.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/AttackPunch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/AttackPunch.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/Enemy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/Enemy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/EnemyBoxer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/EnemyBoxer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/EnemyRobot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/EnemyRobot.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/EnemySimulatorWithConsoleOutput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/EnemySimulatorWithConsoleOutput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/EnemySpider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/EnemySpider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/IAttackBehavior.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/IAttackBehavior.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/ISpecialAbilityBehavior.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/ISpecialAbilityBehavior.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/SpecialAbilityBodySlam.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/SpecialAbilityBodySlam.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/SpecialAbilityWebSpray.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/1. Strategy Pattern/Scripts/SpecialAbilityWebSpray.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/ChangeColorBehavior.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/ChangeColorBehavior.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/ChangeColorBlue.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/ChangeColorBlue.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/ChangeColorGreen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/ChangeColorGreen.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/ChangeColorRed.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/ChangeColorRed.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/ChangeColorYellow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/ChangeColorYellow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/ClickToShoot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/ClickToShoot.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/Enemy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/Enemy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/EnemyBoxer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/EnemyBoxer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/EnemyRobot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/EnemyRobot.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/EnemySpider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/EnemySpider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/IDestroyable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2. Strategy Pattern with GameObjects/Scripts/IDestroyable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2.1. Strategy Pattern With Console Output.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2.1. Strategy Pattern With Console Output.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2.2. Strategy Pattern with GameObjects.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2.2. Strategy Pattern with GameObjects.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2.3. Strategy Pattern with Delegates.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2.3. Strategy Pattern with Delegates.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2.4. Strategy Pattern with Delegates with GameObjects.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2.4. Strategy Pattern with Delegates with GameObjects.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2.5. Passing Arguments to Delegates.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/2.5. Passing Arguments to Delegates.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/3. Strategy Pattern - Delegates with Console Output.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/3. Strategy Pattern - Delegates with Console Output/DelegateSimulatorWithConsoleOutput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/3. Strategy Pattern - Delegates with Console Output/DelegateSimulatorWithConsoleOutput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/4. Strategy Pattern - Delegates with GameObjects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/4. Strategy Pattern - Delegates with GameObjects/FakingStrategyPatternWithDelegates.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/4. Strategy Pattern - Delegates with GameObjects/FakingStrategyPatternWithDelegates.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/5. Delegates with Arguments.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/5. Delegates with Arguments/DelegatesWithArguments.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Assets/Week2/5. Delegates with Arguments/DelegatesWithArguments.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/NetworkManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2 demo project/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/.idea/.idea.week 3 demo project/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/.idea/.idea.week 3 demo project/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/.idea/.idea.week 3 demo project/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/.idea/.idea.week 3 demo project/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/.idea/.idea.week 3 demo project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/.idea/.idea.week 3 demo project/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/.idea/.idea.week 3 demo project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/.idea/.idea.week 3 demo project/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/.idea/.idea.week 3 demo project/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/FirstPersonCharacter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/ThirdPersonCharacter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/AICharacterControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/AICharacterControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Editor/CrossPlatformInput.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/AfterburnerPhysicsForce.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/AfterburnerPhysicsForce.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/ExplosionFireAndDebris.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/ExplosionFireAndDebris.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/ExplosionPhysicsForce.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/ExplosionPhysicsForce.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/Explosive.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/Explosive.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/ExtinguishableParticleSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/ExtinguishableParticleSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/FireLight.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/FireLight.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/Hose.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/Hose.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/ParticleSystemMultiplier.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/ParticleSystemMultiplier.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/SmokeParticles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/SmokeParticles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/WaterHoseParticles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/ParticleSystems/Scripts/WaterHoseParticles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/ActivateTrigger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/ActivateTrigger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/AlphaButtonClickMask.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/AlphaButtonClickMask.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/AutoMobileShaderSwitch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/AutoMobileShaderSwitch.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/AutoMoveAndRotate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/AutoMoveAndRotate.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/CameraRefocus.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/CameraRefocus.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/CurveControlledBob.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/CurveControlledBob.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/DragRigidbody.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/DragRigidbody.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/DynamicShadowSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/DynamicShadowSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/EventSystemChecker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/EventSystemChecker.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/FOVKick.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/FOVKick.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/FPSCounter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/FPSCounter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/FollowTarget.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/FollowTarget.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/ForcedReset.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/ForcedReset.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/LerpControlledBob.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/LerpControlledBob.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/ObjectResetter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/ObjectResetter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/ParticleSystemDestroyer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/ParticleSystemDestroyer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/PlatformSpecificContent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/PlatformSpecificContent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/SimpleMouseRotator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/SimpleMouseRotator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/SmoothFollow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/SmoothFollow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/TimedObjectActivator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/TimedObjectActivator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/TimedObjectDestructor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/TimedObjectDestructor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/WaypointCircuit.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/WaypointCircuit.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/WaypointProgressTracker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Standard Assets/Utility/WaypointProgressTracker.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/1. Observer Pattern - Text.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/1. Observer Pattern - Text/DisplayText.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/1. Observer Pattern - Text/DisplayText.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/1. Observer Pattern - Text/IObserver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/1. Observer Pattern - Text/IObserver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/1. Observer Pattern - Text/ISubject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/1. Observer Pattern - Text/ISubject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/1. Observer Pattern - Text/TextData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/1. Observer Pattern - Text/TextData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/Cannon.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/Cannon.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/ForceData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/ForceData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/IObserver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/IObserver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/ISubject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/ISubject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/Materials/Plane.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/Materials/Plane.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/Materials/black.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/Materials/black.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/Materials/cannon.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/Materials/cannon.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/Materials/platform.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/Materials/platform.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/cannons.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/cannons.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/platform.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/platform.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/prefab/cannon_2_p.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/prefab/cannon_2_p.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/prefab/cannon_p.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/prefab/cannon_p.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/prefab/core.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/prefab/core.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/prefab/platform.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/prefab/platform.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/textures/cannon_AlbedoTransparency.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/textures/cannon_AlbedoTransparency.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/textures/cannon_MetallicSmoothness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/textures/cannon_MetallicSmoothness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/textures/cannon_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/textures/cannon_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/textures/platform_mat_AlbedoTransparency.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/textures/platform_mat_AlbedoTransparency.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/textures/platform_mat_MetallicSmoothness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/textures/platform_mat_MetallicSmoothness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/textures/platform_mat_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/models/textures/platform_mat_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/scene/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/scene/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/scene/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/scene/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/scene/ReflectionProbe-1.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/scene/ReflectionProbe-1.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/scenes/cannon.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/gun/scenes/cannon.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/prefabs/cannon_2_p.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/prefabs/cannon_2_p.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/prefabs/core.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/2. Observer Pattern with GameObjects/prefabs/core.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3. Observer Pattern with Triggers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3. Observer Pattern with Triggers/DisplayLocationsVisited.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3. Observer Pattern with Triggers/DisplayLocationsVisited.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3. Observer Pattern with Triggers/IObserver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3. Observer Pattern with Triggers/IObserver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3. Observer Pattern with Triggers/ISubject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3. Observer Pattern with Triggers/ISubject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3. Observer Pattern with Triggers/Location.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3. Observer Pattern with Triggers/Location.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3. Observer Pattern with Triggers/LocationData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3. Observer Pattern with Triggers/LocationData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3. Observer Pattern with Triggers/PlayerInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3. Observer Pattern with Triggers/PlayerInfo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.1. Observer Pattern with Text.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.1. Observer Pattern with Text.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.2. Observer Pattern with GameObjects Cannons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.2. Observer Pattern with GameObjects Cannons.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.2. Observer Pattern with GameObjects Cannons.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.2. Observer Pattern with GameObjects Cannons/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.2. Observer Pattern with GameObjects Cannons/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.2. Observer Pattern with GameObjects Cannons/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.2. Observer Pattern with GameObjects Cannons/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.3. Observer Pattern with Triggers.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.3. Observer Pattern with Triggers.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.4. Observer Pattern with Scriptable Objects.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.4. Observer Pattern with Scriptable Objects.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.5. Events.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.5. Events.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.6. Events using Parameters.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.6. Events using Parameters.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.7. Observer Pattern with UnityEvents.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.7. Observer Pattern with UnityEvents.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.8. Events with Scriptable Objects (from Ryan Hipple's Unite 2017 talk).unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/3.8. Events with Scriptable Objects (from Ryan Hipple's Unite 2017 talk).unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/4. Observer Pattern with Scriptable Objects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/4. Observer Pattern with Scriptable Objects/DisplayLocationsVisited.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/4. Observer Pattern with Scriptable Objects/DisplayLocationsVisited.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/4. Observer Pattern with Scriptable Objects/IObserver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/4. Observer Pattern with Scriptable Objects/IObserver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/4. Observer Pattern with Scriptable Objects/ISubject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/4. Observer Pattern with Scriptable Objects/ISubject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/4. Observer Pattern with Scriptable Objects/Location.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/4. Observer Pattern with Scriptable Objects/Location.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/4. Observer Pattern with Scriptable Objects/LocationData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/4. Observer Pattern with Scriptable Objects/LocationData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/4. Observer Pattern with Scriptable Objects/LocationDataScriptableObject.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/4. Observer Pattern with Scriptable Objects/LocationDataScriptableObject.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/5. Observer Pattern - Events.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/5. Observer Pattern - Events/ChangeColor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/5. Observer Pattern - Events/ChangeColor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/5. Observer Pattern - Events/SendEventOnClick.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/5. Observer Pattern - Events/SendEventOnClick.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/5. Observer Pattern - Events/TeleportObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/5. Observer Pattern - Events/TeleportObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/6. Observer Pattern - Events with Parameters.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/6. Observer Pattern - Events with Parameters/ChangeColorWithParameters.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/6. Observer Pattern - Events with Parameters/ChangeColorWithParameters.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/6. Observer Pattern - Events with Parameters/SendEventOnClickWithParameters.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/6. Observer Pattern - Events with Parameters/SendEventOnClickWithParameters.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/6. Observer Pattern - Events with Parameters/SourceForThisExample.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/6. Observer Pattern - Events with Parameters/SourceForThisExample.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/6. Observer Pattern - Events with Parameters/TeleportObjectWithParameters.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/6. Observer Pattern - Events with Parameters/TeleportObjectWithParameters.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/7. Observer Pattern - UnityEvents.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/7. Observer Pattern - UnityEvents/ChangeColor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/7. Observer Pattern - UnityEvents/ChangeColor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/7. Observer Pattern - UnityEvents/SendEventOnClick.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/7. Observer Pattern - UnityEvents/SendEventOnClick.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/7. Observer Pattern - UnityEvents/TeleportObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/7. Observer Pattern - UnityEvents/TeleportObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple).meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Events.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Events/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Events/Editor/EventEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Events/Editor/EventEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Events/GameEvent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Events/GameEvent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Events/GameEventListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Events/GameEventListener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/AnimatorParameterSetter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/AnimatorParameterSetter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/AudioParameterSetter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/AudioParameterSetter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/AudioVolumeSetter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/AudioVolumeSetter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/DamageDealer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/DamageDealer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/Editor/FloatReferenceDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/Editor/FloatReferenceDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/FloatReference.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/FloatReference.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/FloatVariable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/FloatVariable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/ImageFillSetter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/ImageFillSetter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/KeyboardMover.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/KeyboardMover.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/SimpleUnitHealth.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/SimpleUnitHealth.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/SliderSetter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/SliderSetter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/StringVariable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/StringVariable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/TextReplacer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/TextReplacer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/UnitHealth.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/UnitHealth.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/UnityEventRaiser.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/UnityEventRaiser.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/VariableAudioTrigger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Code/Variables/VariableAudioTrigger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Art.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Art/AudioMixer.mixer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Art/AudioMixer.mixer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Art/damage.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Art/damage.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Art/death.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Art/death.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Art/heartbeat.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Art/heartbeat.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Art/white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Art/white.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Events.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Events/OnPlayerDamaged.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Events/OnPlayerDamaged.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Events/OnPlayerKilled.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Events/OnPlayerKilled.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/HP 1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/HP 1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/HP 2.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/HP 2.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/DamageEffect.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/DamageEffect.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/DeathScreen.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/DeathScreen.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/DeathSound.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/DeathSound.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/HPMeter.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/HPMeter.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/Player.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/Player.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/SimplePlayer.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/SimplePlayer.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/SphereOfPain.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/SphereOfPain.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/WarningSound.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/WarningSound.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/WarningSoundParam.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Prefabs/WarningSoundParam.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/Constants.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/Constants/HeavyDamage.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/Constants/HeavyDamage.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/Constants/LightDamage.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/Constants/LightDamage.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/Constants/LowHP.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/Constants/LowHP.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/Constants/MaxHP.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/Constants/MaxHP.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/Constants/PlayerSpeed.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/Constants/PlayerSpeed.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/HP.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/HP.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/PlayerSpeed.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Assets/Week3/8. Events with ScriptableObjects (from Ryan Hipple)/Demo01_HP/Variables/PlayerSpeed.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/NetworkManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 3 demo project/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/.idea/.idea.week 4 demo project/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/.idea/.idea.week 4 demo project/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/.idea/.idea.week 4 demo project/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/.idea/.idea.week 4 demo project/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/.idea/.idea.week 4 demo project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/.idea/.idea.week 4 demo project/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/.idea/.idea.week 4 demo project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/.idea/.idea.week 4 demo project/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/.idea/.idea.week 4 demo project/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/Character.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/Character.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/CharacterCreator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/CharacterCreator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/ProfessionDecorator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/ProfessionDecorator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/ProfessionWarrior.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/ProfessionWarrior.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/ProfessionWizard.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/ProfessionWizard.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/RaceElf.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/RaceElf.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/RaceTroll.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/1. Decorator Pattern/RaceTroll.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/Character.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/Character.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/CharacterCreator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/CharacterCreator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/ProfessionDecorator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/ProfessionDecorator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/ProfessionWarrior.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/ProfessionWarrior.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/ProfessionWizard.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/ProfessionWizard.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/RaceElf.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/RaceElf.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/RaceTroll.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/2. Decorator Pattern - Text/RaceTroll.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/DisplayText.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/DisplayText.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/Materials/DarkGreen.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/Materials/DarkGreen.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/Materials/LightGreen.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/Materials/LightGreen.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/Materials/Red.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/Materials/Red.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/Pickup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/Pickup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/Player.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/PlayerDecorator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/PlayerDecorator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/PlayerPowerups.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/PlayerPowerups.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/PowerupSpeedDownLarge.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/PowerupSpeedDownLarge.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/PowerupSpeedUpLarge.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/PowerupSpeedUpLarge.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/PowerupSpeedUpSmall.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/3. Decorator Pattern - GameObjects/PowerupSpeedUpSmall.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/4.1. Decorator Pattern with Console Output.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/4.1. Decorator Pattern with Console Output.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/4.2. Decorator Pattern with Text.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/4.2. Decorator Pattern with Text.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/4.3. Decorator Pattern with GameObjects.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Assets/Week04_Decorator/4.3. Decorator Pattern with GameObjects.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/NetworkManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 4 demo project/ProjectSettings/VFXManager.asset" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/NpcSpawner.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1p2gnDihihKFll955AUfBVAbcvz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f43da3d-29d4-407a-a6ab-6d9239aebfb3" name="Default Changelist" comment="" />
+      <created>1614386767313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614386767313</updated>
+      <workItem from="1614386780586" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
