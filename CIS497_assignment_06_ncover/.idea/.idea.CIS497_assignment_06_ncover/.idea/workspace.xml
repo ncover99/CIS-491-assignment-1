@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f43da3d-29d4-407a-a6ab-6d9239aebfb3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CIS497_assignment_05_ncover/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CIS497_assignment_05_ncover/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a29ca2b8-2738-4e20-9da5-ac5635fb4ba9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CIS497_assignment_05_ncover/.idea/.idea.CIS497_assignment_05_ncover/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CIS497_assignment_05_ncover/.idea/.idea.CIS497_assignment_05_ncover/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +33,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/NpcFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NPCCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Citizen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HeroCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NeutralCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Criminal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NPC.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NpcSpawner.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1p2gnDihihKFll955AUfBVAbcvz" />
+  <component name="ProjectId" id="1pLf43mwjOYqfJQTQGuHe9snGrz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,13 +60,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2f43da3d-29d4-407a-a6ab-6d9239aebfb3" name="Default Changelist" comment="" />
-      <created>1614386767313</created>
+      <changelist id="a29ca2b8-2738-4e20-9da5-ac5635fb4ba9" name="Default Changelist" comment="" />
+      <created>1614967097067</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614386767313</updated>
-      <workItem from="1614386780586" duration="611000" />
-      <workItem from="1614972498125" duration="1205000" />
+      <updated>1614967097067</updated>
+      <workItem from="1614967111705" duration="7580000" />
     </task>
     <servers />
   </component>
@@ -74,7 +82,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
